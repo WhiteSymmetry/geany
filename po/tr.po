@@ -5549,7 +5549,7 @@ msgstr "Yunan karakterleri"
 
 #: ../plugins/htmlchars.c:234
 msgid "Mathematical characters"
-msgstr "Matematik karakterleri"
+msgstr "Matematiksel karakterler"
 
 #: ../plugins/htmlchars.c:275
 msgid "Technical characters"
